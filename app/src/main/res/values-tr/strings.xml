@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Linkkoy</string>
+    <string name="login">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="name">İsim</string>
+    <string name="create_account">Hesabınızı oluşturun</string>
+    <string name="welcome_back">Tekrar Hoşgeldiniz</string>
+    <string name="no_account">Hesabınız yok mu? Kayıt Ol</string>
+    <string name="has_account">Zaten hesabınız var mı? Giriş Yap</string>
+    <string name="new_folder">Yeni Klasör</string>
+    <string name="add_link">Bağlantı Ekle</string>
+    <string name="search_hint">Klasör veya bağlantı ara</string>
+    <string name="folders">KLASÖRLER</string>
+    <string name="search_results">ARAMA SONUÇLARI</string>
+    <string name="empty">Boş</string>
+    <string name="delete_folder">Klasörü Sil</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">İptal</string>
+    <string name="create">Oluştur</string>
+    <string name="folder_name">Klasör adı</string>
+    <string name="choose_icon">İkon Seç</string>
+    <string name="edit">Düzenle</string> <!-- Hata için eklendi -->
+</resources>

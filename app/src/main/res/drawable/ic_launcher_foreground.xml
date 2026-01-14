@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Logonu daha büyük göstermek için ölçeği genişlettim -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M20,60 L35,45 C40,40 50,40 55,45 L70,60 C85,75 85,90 70,105 C55,120 40,120 25,105 L20,100 M88,48 L73,63 C68,68 58,68 53,63 L38,48 C23,33 23,18 38,3 C53,-12 68,-12 83,3 L88,8"
+        android:strokeWidth="6"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"/>
+</vector>

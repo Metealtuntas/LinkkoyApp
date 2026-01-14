@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Linkkoy</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create your account</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="has_account">Already have an account? Login</string>
+    <string name="new_folder">New Folder</string>
+    <string name="add_link">Add Link</string>
+    <string name="search_hint">Search folders or links</string>
+    <string name="folders">FOLDERS</string>
+    <string name="search_results">SEARCH RESULTS</string>
+    <string name="empty">Empty</string>
+    <string name="delete_folder">Delete Folder</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="folder_name">Folder name</string>
+    <string name="choose_icon">Choose Icon</string>
+    <string name="edit">Edit</string>
+</resources>
