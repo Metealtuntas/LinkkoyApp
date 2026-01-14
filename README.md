@@ -8,11 +8,6 @@
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat&logo=firebase)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-<p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Ana+Ekran" alt="Ana Ekran" width="200"/>
-  <img src="https://via.placeholder.com/250x500?text=Klasörler" alt="Klasörler" width="200"/>
-  <img src="https://via.placeholder.com/250x500?text=Arama" alt="Arama" width="200"/>
-</p>
 
 </div>
 
