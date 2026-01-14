@@ -13,6 +13,11 @@
 
 ---
 
+
+https://github.com/user-attachments/assets/8cc24f75-148d-4b3b-bf1d-9dccedae65ae
+
+
+
 ## 📖 Hakkında
 
 **Linkkoy**, dijital kaosunuzu düzenlemek için tasarlandı. Kişisel linklerinizi, makalelerinizi ve favori sitelerinizi **klasörler ve alt klasörler** yapısıyla organize edin. Gücünü **Firebase** altyapısından alan Linkkoy, verilerinizi bulutta güvenle saklar ve tüm cihazlarınızdan erişilebilir kılar.
@@ -77,5 +82,9 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
     Uygulamayı emülatörde veya fiziksel cihazda çalıştırın.
 
 ## 🤝 İletişim
+
+
+
+
 
 Geliştirici: **Mete Altuntaş** ve **Uğur Pişkin** Proje ile ilgili önerileriniz veya hata bildirimleriniz için [Issue](https://github.com/Metealtuntas/LinkkoyApp/issues) açabilirsiniz.
