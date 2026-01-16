@@ -87,4 +87,4 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 
 
-Geliştirici: **Mete Altuntaş** ve **Uğur Pişkin** Proje ile ilgili önerileriniz veya hata bildirimleriniz için [Issue](https://github.com/Metealtuntas/LinkkoyApp/issues) açabilirsiniz.
+Geliştirici: **[Mete Altuntaş (Metealtuntas)](https://github.com/Metealtuntas)** ve **[Uğur Pişkin (ugurrdev)](https://github.com/ugurrdev)** Proje ile ilgili önerileriniz veya hata bildirimleriniz için [Issue](https://github.com/Metealtuntas/LinkkoyApp/issues) açabilirsiniz.
